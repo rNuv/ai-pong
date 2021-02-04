@@ -9,5 +9,5 @@ After learning some Unity in my Virtual Reality class, I decided to test out the
 -Unity ML-Agents (https://github.com/Unity-Technologies/ml-agents)
 
 ## Pictures 📷
-(The left paddle is the trained agent moving on its own)
+(The left paddle is the trained agent moving on its own) <br />
 ![](images/pong-pic.gif)
