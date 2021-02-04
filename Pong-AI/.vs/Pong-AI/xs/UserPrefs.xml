@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{355D8D12-2FAE-A8EA-03C5-A23149177FD5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoveToBall.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerBehavior.cs" Line="25" Column="36" />
+      <File FileName="Assets/Scripts/BallBehavior.cs" Line="11" Column="53" />
+      <File FileName="Assets/Scripts/MoveToBall.cs" Line="20" Column="65" />
+      <File FileName="../MLAgents/Assets/Scripts/MoveToGoalAgent.cs" Line="11" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5dd226db-256c-4c11-9867-78e3b2d2d68c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

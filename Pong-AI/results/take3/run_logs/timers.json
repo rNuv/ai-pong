@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1612216225",
+        "python_version": "3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43) \n[Clang 6.0 (clang-600.0.57)]",
+        "command_line_arguments": "/Users/arnavnayak/Documents/VR/Pong-AI/venv/bin/mlagents-learn --run-id=take3 --force",
+        "mlagents_version": "0.23.0",
+        "mlagents_envs_version": "0.23.0",
+        "communication_protocol_version": "1.3.0",
+        "pytorch_version": "1.7.1",
+        "numpy_version": "1.20.0",
+        "end_time_seconds": "1612216225"
+    },
+    "total": 0.028095611999999992,
+    "count": 1,
+    "self": 0.008339995000000044,
+    "children": {
+        "run_training.setup": {
+            "total": 0.011524413999999927,
+            "count": 1,
+            "self": 0.011524413999999927
+        },
+        "TrainerController.start_learning": {
+            "total": 0.00823120300000002,
+            "count": 1,
+            "self": 0.00020828099999992133,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 0.00745153799999998,
+                    "count": 1,
+                    "self": 0.00745153799999998
+                },
+                "TrainerController._save_models": {
+                    "total": 0.0005713840000001191,
+                    "count": 1,
+                    "self": 0.0005713840000001191
+                }
+            }
+        }
+    }
+}
